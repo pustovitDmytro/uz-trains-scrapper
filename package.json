@@ -1,0 +1,22 @@
+{
+  "name": "node-phantom",
+  "version": "1.0.0",
+  "description": "phantomJs scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pustovitDmytro/node-phantom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pustovitDmytro/node-phantom/issues"
+  },
+  "homepage": "https://github.com/pustovitDmytro/node-phantom#readme",
+  "dependencies": {
+    "phantom": "^6.0.3"
+  }
+}
